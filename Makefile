@@ -15,5 +15,5 @@ install:
 	pip install -r ./requirements.txt
 
 run:
-	python3.11 ./app/
+	python3.11 ./
 	
